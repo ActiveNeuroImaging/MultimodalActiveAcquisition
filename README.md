@@ -1,2 +1,2 @@
 # MultimodalActiveAcquisition
-Some simple (probably wrong) illustrations for multimodal active acquisition of neuroimaging data
+Some simple computational code to illustrate multimodal active acquisition for neuroimaging data
